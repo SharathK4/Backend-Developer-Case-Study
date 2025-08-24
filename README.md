@@ -1,11 +1,7 @@
 # Backend-Developer-Case-Study
 # StockFlow – Take‑Home Submission
 
-## Overview
 
-This repo contains my solution for the StockFlow take‑home assignment. I broke it down into three parts: debugging the product creation API, designing the database schema, and implementing the low‑stock alerts endpoint.
-
----
 
 ## Part 1 — Product Creation API
 
@@ -123,10 +119,3 @@ Response format:
 
 ---
 
-## Checklist
-
-* [x] Debugged product creation API
-* [x] Designed schema with core tables and indexes
-* [x] Implemented low‑stock alerts endpoint
-
-Done within the given 90‑minute window. Ready for discussion.
